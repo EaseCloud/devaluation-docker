@@ -1,0 +1,17 @@
+Sphinx
+chardet
+pillow
+python-dateutil
+pyaml
+markdown
+mysqlclient
+httpie
+beautifulsoup4
+django
+django-cors-headers
+djangorestframework
+djangorestframework-yaml
+django-filter
+wechatpy
+gunicorn
+
